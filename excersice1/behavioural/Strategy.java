@@ -1,0 +1,6 @@
+package exercise1.behavioral;
+
+
+public interface Strategy {
+int execute(int a, int b);
+}
